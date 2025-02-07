@@ -19,7 +19,9 @@ dynamic = ["version", "description"]
 dependencies = [
     "pytest",
     "numpy",
-    "scikit-learn"
+    "scikit-learn",
+    "matplotlib",
+    "scipy"
 ]
 requires-python = ">=3.7"
 
