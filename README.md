@@ -1,4 +1,4 @@
-![BuildStatus](https://github.com/aanicolella/HW4-Clustering/actions/workflows/test.yml/badge.svg?event=push)
+![BuildStatus](https://github.com/aanicolella/HW4-Clustering/actions/workflows/test.yml/badge.svg?event=push) 
 # Assignment 4
 Implementation of KMeans and Silhouette Scoring
 
